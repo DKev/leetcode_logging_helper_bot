@@ -16,7 +16,7 @@ A simple desktop tool for structuring your problem-solving process on LeetCode. 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/leetcode_logging_helper_bot.git
+git clone https://github.com/DKev/leetcode_logging_helper_bot.git
 cd leetcode_logging_helper_bot
 python main.py
 ```
