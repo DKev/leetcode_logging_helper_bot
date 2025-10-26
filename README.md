@@ -19,3 +19,11 @@ A simple desktop tool for structuring your problem-solving process on LeetCode. 
 git clone https://github.com/YOUR_USERNAME/leetcode_logging_helper_bot.git
 cd leetcode_logging_helper_bot
 python main.py
+```
+
+## 🛠 Dependencies
+Python 3.8+
+tkinter (built-in in most Python installations)
+
+## 📜 License
+MIT License
